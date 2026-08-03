@@ -1,58 +1,108 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=200&section=header&text=Charlene%20Athena&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Information%20Systems%20%C2%B7%20Technical%20Operations%20%C2%B7%20Surabaya%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=58&descSize=16&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE8130,50:F7D02C,100:6390F0&height=200&section=header&text=Charlene%20Athena&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Trainer%20Card%20%C2%B7%20Surabaya%20Gym%20%C2%B7%20Route%20Indonesia&descAlignY=58&descSize=16&animation=fadeIn" alt="header"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Frontend%2C+backend%2C+infra+%E2%80%94+all+of+it.;Data+pipelines+and+dashboards.;Building%2C+breaking%2C+fixing%2C+learning." alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=17&duration=3400&pause=900&color=F7D02C&center=true&vCenter=true&width=700&lines=A+wild+DEVELOPER+appeared!;Frontend%2C+backend%2C+infra+%E2%80%94+all+of+it.;It's+super+effective!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/charlene-athena-0316b3354">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-6390F0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:charleneathena@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EE8130?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://instagram.com/tututunaaa">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-D685AD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=lilyofthevaleys&label=Profile%20views&color=7AA2F7&style=for-the-badge" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=lilyofthevaleys&label=Trainers%20met&color=F7D02C&style=for-the-badge" alt="views"/>
 </p>
 
 ---
 
-## 🌸 About me
+## 📋 Trainer Card
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="dev at work"/>
+<img align="right" width="150" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/549.gif" alt="Lilligant"/>
+
+**Name** · Charlene Athena
+**Trainer class** · Technical Operations @ Eterna Indonesia
+**Hometown** · Surabaya, Indonesia 🇮🇩
+**Currently training at** · Universitas Ciputra — Information Systems for Business
 
 I like wearing multiple hats — frontend, backend, data pipelines, infrastructure. Most of what I build starts as *"I don't know how to do this yet,"* which is usually the point.
 
-Right now I'm doing **Technical Operations at Eterna Indonesia** while finishing my **Information Systems for Business** degree at Universitas Ciputra Surabaya — which means about half my time is writing application code and the other half is keeping things running.
-
-- 🧩 I like the messy middle: ETL jobs, admin panels, deploy scripts
-- 📊 Recently into dimensional modelling and dashboards
-- 🌱 Always learning something I have no business trying yet
-- 💬 Ask me about **TypeScript, Python, or anything DevOps**
+About half my week is writing application code and the other half is keeping things running.
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Featured projects
+## ⚡ My team
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[ALP-DataWarehouse-ecommerce](https://github.com/lilyofthevaleys/ALP-DataWarehouse-ecommerce)** | Dimensional data warehouse for e-commerce analytics — 6 dimension tables, 2 fact tables, a Python ETL pipeline, and SQL analytical views over the top. | `Python` `Jupyter` `SQL` |
-| **[Netflix-Dashboard-DaSci-ALP](https://github.com/lilyofthevaleys/Netflix-Dashboard-DaSci-ALP)** | Streamlit dashboard exploring the Netflix catalogue, with a KNN classifier trained to predict content attributes. | `Python` `Streamlit` `scikit-learn` |
-| **[decision-educationalgame](https://github.com/lilyofthevaleys/decision-educationalgame)** | Mobile-first educational game teaching decision-making through branching scenarios, with personality scoring and PDF export. | `React` `Tailwind` `Radix UI` |
-| **[sion-education-website](https://github.com/lilyofthevaleys/sion-education-website)** | Responsive education site with an admin panel, backed by Supabase and deployed on Vercel. | `TypeScript` `Vite` `Supabase` |
+I'm basically an Eevee — I keep picking a different evolution depending on what the job needs.
+
+<table>
+<tr align="center">
+  <td><img width="70" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/135.gif" alt="Jolteon"/><br/><b>Jolteon</b><br/><sub>⚡ Frontend</sub><br/><sub>fast &amp; reactive</sub></td>
+  <td><img width="70" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif" alt="Vaporeon"/><br/><b>Vaporeon</b><br/><sub>💧 Backend</sub><br/><sub>flows around anything</sub></td>
+  <td><img width="70" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/470.gif" alt="Leafeon"/><br/><b>Leafeon</b><br/><sub>🌿 Data &amp; ML</sub><br/><sub>slow growth, deep roots</sub></td>
+  <td><img width="70" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif" alt="Umbreon"/><br/><b>Umbreon</b><br/><sub>🌙 Infra &amp; DevOps</sub><br/><sub>awake at 3am</sub></td>
+  <td><img width="70" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif" alt="Espeon"/><br/><b>Espeon</b><br/><sub>🔮 Testing</sub><br/><sub>saw the bug coming</sub></td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech stack
+## 📕 Pokédex — featured projects
+
+<table>
+<tr>
+<td width="60" align="center"><img width="55" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif" alt=""/></td>
+<td>
+
+**[ALP-DataWarehouse-ecommerce](https://github.com/lilyofthevaleys/ALP-DataWarehouse-ecommerce)** · `#001`
+Dimensional data warehouse for e-commerce analytics — 6 dimension tables, 2 fact tables, a Python ETL pipeline, and SQL analytical views over the top.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><img width="55" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif" alt=""/></td>
+<td>
+
+**[Netflix-Dashboard-DaSci-ALP](https://github.com/lilyofthevaleys/Netflix-Dashboard-DaSci-ALP)** · `#002`
+Streamlit dashboard exploring the Netflix catalogue, with a KNN classifier trained to predict content attributes.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><img width="55" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" alt=""/></td>
+<td>
+
+**[decision-educationalgame](https://github.com/lilyofthevaleys/decision-educationalgame)** · `#003`
+Mobile-first educational game teaching decision-making through branching scenarios, with personality scoring and PDF export.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><img width="55" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/549.gif" alt=""/></td>
+<td>
+
+**[sion-education-website](https://github.com/lilyofthevaleys/sion-education-website)** · `#004`
+Responsive education site with an admin panel, backed by Supabase and deployed on Vercel.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎒 TM case — tech stack
 
 <details open>
-<summary><b>Languages</b></summary>
+<summary><b>⚡ Languages</b></summary>
 <br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -67,7 +117,7 @@ Right now I'm doing **Technical Operations at Eterna Indonesia** while finishing
 </details>
 
 <details open>
-<summary><b>Frontend &amp; Mobile</b></summary>
+<summary><b>💧 Frontend &amp; Mobile</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -81,7 +131,7 @@ Right now I'm doing **Technical Operations at Eterna Indonesia** while finishing
 </details>
 
 <details open>
-<summary><b>Backend &amp; Databases</b></summary>
+<summary><b>🔥 Backend &amp; Databases</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
@@ -97,7 +147,7 @@ Right now I'm doing **Technical Operations at Eterna Indonesia** while finishing
 </details>
 
 <details open>
-<summary><b>Data, ML &amp; Testing</b></summary>
+<summary><b>🌿 Data, ML &amp; Testing</b></summary>
 <br/>
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -111,7 +161,7 @@ Right now I'm doing **Technical Operations at Eterna Indonesia** while finishing
 </details>
 
 <details open>
-<summary><b>Infrastructure &amp; Tools</b></summary>
+<summary><b>🌙 Infrastructure &amp; Tools</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -129,7 +179,7 @@ Right now I'm doing **Technical Operations at Eterna Indonesia** while finishing
 
 ---
 
-## 📊 Stats
+## 🏅 Gym badges — stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=lilyofthevaleys&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
@@ -142,7 +192,7 @@ Right now I'm doing **Technical Operations at Eterna Indonesia** while finishing
 
 ---
 
-## 🐍 Watch the snake eat my contributions
+## 🐍 A wild EKANS appeared — and it's eating my contributions
 
 <p align="center">
   <picture>
@@ -152,4 +202,4 @@ Right now I'm doing **Technical Operations at Eterna Indonesia** while finishing
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=140&section=footer&text=one%20commit%20at%20a%20time%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=72" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6390F0,50:F7D02C,100:EE8130&height=140&section=footer&text=gotta%20ship%20'em%20all%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=72" alt="footer"/>
