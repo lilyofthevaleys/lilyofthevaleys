@@ -23,9 +23,9 @@
 
 <img align="right" width="150" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/549.gif" alt="Lilligant"/>
 
-**Name** · Charlene Athena
-**Trainer class** · Technical Operations @ Eterna Indonesia
-**Hometown** · Surabaya, Indonesia 🇮🇩
+**Name** · Charlene Athena<br>
+**Trainer class** · Technical Operations @ Eterna Indonesia<br>
+**Hometown** · Surabaya, Indonesia 🇮🇩<br>
 **Currently training at** · Universitas Ciputra — Information Systems for Business
 
 I like wearing multiple hats — frontend, backend, data pipelines, infrastructure. Most of what I build starts as *"I don't know how to do this yet,"* which is usually the point.
